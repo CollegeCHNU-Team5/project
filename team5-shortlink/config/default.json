@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "reznikvova short link",
+  "mongoUri": "mongodb+srv://reznikvova:1234567890@cluster0.1j8bh.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
